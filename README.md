@@ -106,9 +106,12 @@ void loop() {
 }
 ```
 
-# Observation
+# Output
+
+<img width="1600" height="1284" alt="image" src="https://github.com/user-attachments/assets/7c5eb2a8-1d84-462c-bba5-ecea09f31c11" />
 
 
+<img width="1483" height="677" alt="image" src="https://github.com/user-attachments/assets/3c56901b-8568-4f1c-9228-7b912c4aa2b9" />
 
 
 # Result
